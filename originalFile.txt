@@ -1,0 +1,7 @@
+This is a course
+About programming
+
+It is about Advanced
+Programming Techniques
+
+The course code is COSC1076
